@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arnav Kumar</h1>
 <h3 align="center">My code is an abstract representation of my inner chaos.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=loneranger09&label=Profile%20views&color=0e75b6&style=flat" alt="loneranger09" /> </p>
+
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=loneranger09) <img src="https://komarev.com/ghpvc/?username=loneranger09&label=Profile%20views&color=0e75b6&style=flat" alt="loneranger09" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loneranger09" alt="loneranger09" /></a> </p>
 
@@ -32,4 +33,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loneranger09&show_icons=true&locale=en" alt="loneranger09" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loneranger09&" alt="loneranger09" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=loneranger09&count_private=true&show_icons=true&hide=contribs)
