@@ -16,7 +16,7 @@ jobs:
           # Use this username's contribution graph
           user_name: LoneRanger09
           # Text on contribution graph
-          text: Arnav Vats
+          text: Arnav
 
       - name: Push generated gitartwork.svg
         uses: jasineri/simple-push-action@v1
