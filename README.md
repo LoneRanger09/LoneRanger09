@@ -19,7 +19,7 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://github.com/LoneRanger09">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Graphic%20Designer;CS%20Engineering;Flutter%20Development;Full%20Stack%20Development&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;CS%20Engineering;ML%20Enthusiast;Web%20App%20Developer&font=Pacifico&center=true&width=1000&height=120&color=58a6ff&vCenter=true&size=45">
   </a>
 </p>
 
