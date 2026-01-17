@@ -1,0 +1,22 @@
+name: gitartwork from a contribution graph
+
+on:
+  push:
+
+jobs:
+  build:
+    name: Make gitartwork SVG
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate contribution graph SVG
+        uses: jasineri/gitartwork@v1
+        with:
+          # Use this username's contribution graph
+          user_name: LoneRanger09
+          # Text on contribution graph
+          text: Arnav Vats
+
+      - name: Push generated gitartwork.svg
+        uses: jasineri/simple-push-action@v1
