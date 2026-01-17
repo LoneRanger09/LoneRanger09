@@ -40,13 +40,13 @@
 ---
 
 ## 🌐 Connect with Me
-<div>
+<p align="center">
   <a href="https://www.leetcode.com/tubak2907" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" /></a>
   
   <a href="https://www.instagram.com/vats__arnav/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" /></a>
   
   <a href="www.linkedin.com/in/arnav-kumar-4aa662336" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" /></a>
-</div>
+</p>
 
 ---
 
