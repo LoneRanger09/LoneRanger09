@@ -19,10 +19,10 @@
       <img src="gitgif.gif" width="320" style="border-radius: 8px;" alt="Developer Coding" />
     </td>
     <td width="60%" valign="middle" style="border: none; padding-left: 20px; font-size: 16px; line-height: 1.6;">
-      <p>🌱 I am currently working on full-stack web development and AI-powered applications.</p>
-      <p>🔭 I'm passionate about building scalable web solutions with Angular, Node.js, and Python.</p>
-      <p>💬 Ask me about JavaScript, TypeScript, Python, Angular, or backend engineering.</p>
-      <p>⚡ In my free time, I love working on automation scripts, AI auto-completers, and coding portfolios.</p>
+      <p>🎓 **Computer Science Engineering Student** passionate about software engineering, clean code, and building impactful things from scratch.</p>
+      <p>🚀 **Full-Stack Developer** focused on designing scalable, high-performance web applications with Angular, Node.js, and Python.</p>
+      <p>👾 **Status**: `Debugging reality, compiling ideas, and turning coffee into scalable code.`</p>
+      <p>🛠️ **Current Focus**: Building secure utilities (like `url-shortener`), automated billing tools (like `invoice-generator`), and elegant portfolios.</p>
     </td>
   </tr>
 </table>
